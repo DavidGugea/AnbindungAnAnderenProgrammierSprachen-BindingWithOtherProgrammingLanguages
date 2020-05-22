@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1590177620 source:g:\david\programming\pythonbook\anbindunganandereprogrammiersprachen\dll_inc_plusplus\main.cpp
+	"main.h"
+	<sstream>
+	"string.h"
+
+1584209020 g:\david\programming\pythonbook\anbindunganandereprogrammiersprachen\dll_inc_plusplus\main.h
+	<windows.h>
+
