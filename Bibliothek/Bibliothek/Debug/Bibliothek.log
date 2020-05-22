@@ -1,0 +1,2 @@
+﻿  Bibliothek.c
+g:\david\programming\pythonbook\anbindunganandereprogrammiersprachen\bibliothek\bibliothek\bibliothek.c(4): fatal error C1853: Die vorkompilierte Header-Datei "Debug\Bibliothek.pch" stammt von einer früheren Version des Compilers, oder der vorkompilierte Header stammt von C++, und Sie verwenden Ihn von C (oder umgekehrt)
