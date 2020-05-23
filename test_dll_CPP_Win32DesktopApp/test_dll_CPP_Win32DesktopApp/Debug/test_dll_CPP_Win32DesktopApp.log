@@ -1,0 +1,2 @@
+﻿  Base.cpp
+g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen\test_dll_cpp_win32desktopapp\test_dll_cpp_win32desktopapp\base.cpp(8): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
