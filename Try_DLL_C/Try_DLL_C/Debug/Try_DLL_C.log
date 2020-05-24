@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Try_DLL_C.c
+g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen\try_dll_c\try_dll_c\try_dll_c.c(4): fatal error C1853: 'Debug\Try_DLL_C.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
