@@ -1,0 +1,311 @@
+# depslib dependency file v1.0
+1590418296 source:g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Python.h"
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\python.h
+	"patchlevel.h"
+	"pyconfig.h"
+	"pymacconfig.h"
+	<limits.h>
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<stdlib.h>
+	<unistd.h>
+	<crypt.h>
+	<stddef.h>
+	<assert.h>
+	"pyport.h"
+	"pymacro.h"
+	"pymath.h"
+	"pytime.h"
+	"pymem.h"
+	"object.h"
+	"objimpl.h"
+	"typeslots.h"
+	"pyhash.h"
+	"pydebug.h"
+	"bytearrayobject.h"
+	"bytesobject.h"
+	"unicodeobject.h"
+	"longobject.h"
+	"longintrepr.h"
+	"boolobject.h"
+	"floatobject.h"
+	"complexobject.h"
+	"rangeobject.h"
+	"memoryobject.h"
+	"tupleobject.h"
+	"listobject.h"
+	"dictobject.h"
+	"odictobject.h"
+	"enumobject.h"
+	"setobject.h"
+	"methodobject.h"
+	"moduleobject.h"
+	"funcobject.h"
+	"classobject.h"
+	"fileobject.h"
+	"pycapsule.h"
+	"traceback.h"
+	"sliceobject.h"
+	"cellobject.h"
+	"iterobject.h"
+	"genobject.h"
+	"descrobject.h"
+	"warnings.h"
+	"weakrefobject.h"
+	"structseq.h"
+	"namespaceobject.h"
+	"picklebufobject.h"
+	"codecs.h"
+	"pyerrors.h"
+	"cpython/initconfig.h"
+	"pystate.h"
+	"context.h"
+	"pyarena.h"
+	"modsupport.h"
+	"compile.h"
+	"pythonrun.h"
+	"pylifecycle.h"
+	"ceval.h"
+	"sysmodule.h"
+	"osmodule.h"
+	"intrcheck.h"
+	"import.h"
+	"abstract.h"
+	"bltinmodule.h"
+	"eval.h"
+	"pyctype.h"
+	"pystrtod.h"
+	"pystrcmp.h"
+	"dtoa.h"
+	"fileutils.h"
+	"pyfpe.h"
+	"tracemalloc.h"
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\patchlevel.h
+
+1571078548 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\pyconfig.h
+	<io.h>
+	<float.h>
+	<basetsd.h>
+	<stdio.h>
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\pymacconfig.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\pyport.h
+	"pyconfig.h"
+	<inttypes.h>
+	<stdlib.h>
+	<ieeefp.h>
+	<math.h>
+	<sys/time.h>
+	<time.h>
+	<sys/time.h>
+	<time.h>
+	<sys/select.h>
+	<sys/stat.h>
+	<stat.h>
+	<sys/types.h>
+	<sys/termio.h>
+	<ctype.h>
+	<wctype.h>
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\pymacro.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\pymath.h
+	"pyconfig.h"
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\pytime.h
+	"pyconfig.h"
+	"object.h"
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\object.h
+	"pymem.h"
+	"cpython/object.h"
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\pymem.h
+	"pyport.h"
+	"cpython/pymem.h"
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\cpython\pymem.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\cpython\object.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\objimpl.h
+	"pymem.h"
+	"cpython/objimpl.h"
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\cpython\objimpl.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\typeslots.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\pyhash.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\pydebug.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\bytearrayobject.h
+	<stdarg.h>
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\bytesobject.h
+	<stdarg.h>
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\unicodeobject.h
+	<stdarg.h>
+	<ctype.h>
+	<wchar.h>
+	"cpython/unicodeobject.h"
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\cpython\unicodeobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\longobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\longintrepr.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\boolobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\floatobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\complexobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\rangeobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\memoryobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\tupleobject.h
+	"cpython/tupleobject.h"
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\cpython\tupleobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\listobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\dictobject.h
+	"cpython/dictobject.h"
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\cpython\dictobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\odictobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\enumobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\setobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\methodobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\moduleobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\funcobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\classobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\fileobject.h
+	"cpython/fileobject.h"
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\cpython\fileobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\pycapsule.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\traceback.h
+	"cpython/traceback.h"
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\cpython\traceback.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\sliceobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\cellobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\iterobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\genobject.h
+	"pystate.h"
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\pystate.h
+	"pythread.h"
+	"cpython/pystate.h"
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\pythread.h
+	<pthread.h>
+
+1590417020 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\cpython\pystate.h
+	"G:\David\PROGRAMMING\PythonBook\AnbindungAnAnderenProgrammierSprachen-BindingWithOtherProgrammingLanguages\chiffre\cpython/initconfig.h"
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\cpython\initconfig.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\descrobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\warnings.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\weakrefobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\structseq.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\namespaceobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\picklebufobject.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\codecs.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\pyerrors.h
+	<stdarg.h>
+	"cpython/pyerrors.h"
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\cpython\pyerrors.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\context.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\pyarena.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\modsupport.h
+	<stdarg.h>
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\compile.h
+	"code.h"
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\code.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\pythonrun.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\pylifecycle.h
+	"cpython/pylifecycle.h"
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\cpython\pylifecycle.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\ceval.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\sysmodule.h
+	"cpython/sysmodule.h"
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\cpython\sysmodule.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\osmodule.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\intrcheck.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\import.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\abstract.h
+	"cpython/abstract.h"
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\cpython\abstract.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\bltinmodule.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\eval.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\pyctype.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\pystrtod.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\pystrcmp.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\dtoa.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\fileutils.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\pyfpe.h
+
+1571078546 g:\david\programming\pythonbook\anbindungananderenprogrammiersprachen-bindingwithotherprogramminglanguages\chiffre\tracemalloc.h
+
